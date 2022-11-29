@@ -1,0 +1,1 @@
+/usr/bin/g++  -O0 -Wall -g2 -ggdb -rdynamic CMakeFiles/test.dir/test.cpp.o CMakeFiles/test.dir/MyStack.cpp.o -o test 

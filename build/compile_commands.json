@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/root/cal/build",
+  "command": "/usr/bin/g++    -O0 -Wall -g2 -ggdb -std=gnu++11 -o CMakeFiles/../test.dir/test.cpp.o -c /root/cal/test.cpp",
+  "file": "/root/cal/test.cpp"
+},
+{
+  "directory": "/root/cal/build",
+  "command": "/usr/bin/g++    -O0 -Wall -g2 -ggdb -std=gnu++11 -o CMakeFiles/../test.dir/MyStack.cpp.o -c /root/cal/MyStack.cpp",
+  "file": "/root/cal/MyStack.cpp"
+}
+]
